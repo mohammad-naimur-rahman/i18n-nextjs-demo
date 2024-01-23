@@ -1,0 +1,10 @@
+{
+  "server-component": {
+    "welcome": "Arabic Welcome"
+  },
+  "rfq": "Add New RFQ arabic",
+  "counter": {
+    "increment": "Arabic Increment",
+    "decrement": "Arabic Decrement"
+  }
+}

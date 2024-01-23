@@ -1,0 +1,10 @@
+{
+  "server-component": {
+    "welcome": "Welcome"
+  },
+  "rfq": "Add New RFQ",
+  "counter": {
+    "increment": "Increment",
+    "decrement": "Decrement"
+  }
+}
